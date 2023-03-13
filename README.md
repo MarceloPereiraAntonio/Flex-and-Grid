@@ -6,7 +6,9 @@
 ![image](https://user-images.githubusercontent.com/56845435/224752419-70516277-b16c-4fce-894b-24352b2fe15d.png)
 
 
-# Mobile version
+# Mobile version 📲🤳
+- A versão mobile conta com um menu lateral que fica ausente e ao clicar no icone Hamburger button aparece para o usuario.
+- The mobile version has a side menu that is absent and when clicking on the Hamburger button icon appears for the user.
 <div>
 <img height="400em" src="https://user-images.githubusercontent.com/56845435/224753690-48f445f7-edbd-406e-ac0d-9877b4356369.png">
 </div>
