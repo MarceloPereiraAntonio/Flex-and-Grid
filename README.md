@@ -9,8 +9,8 @@
 # Mobile version 📲🤳
 - A versão mobile conta com um menu lateral que fica ausente e ao clicar no icone Hamburger button aparece para o usuario.
 - The mobile version has a side menu that is absent and when clicking on the Hamburger button icon appears for the user.
-<div>
-<img height="400em" src="https://user-images.githubusercontent.com/56845435/224753690-48f445f7-edbd-406e-ac0d-9877b4356369.png">
+<div align="center">
+<img  height="400em" src="https://user-images.githubusercontent.com/56845435/224753690-48f445f7-edbd-406e-ac0d-9877b4356369.png">
 <img height="400em" src="https://user-images.githubusercontent.com/56845435/224757369-080a09e5-c290-4fed-967e-3113c73aa125.png">
 <img height="400em" src="https://user-images.githubusercontent.com/56845435/224751020-dc068913-30e4-4164-a805-330514e603dd.gif">
 </div>
